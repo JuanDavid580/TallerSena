@@ -11,4 +11,5 @@ DeteccionMonedasApp - https://github.com/bdg-ittic/DeteccionMonedasApp
 - URL para acceso a Roboflow
   https://roboflow.com/
 
-  
+- Link a la presentacion de la sesion
+  https://gamma.app/docs/Transferencia-de-conocimiento-SENA-hxks0vz6d62l7ms?mode=doc
