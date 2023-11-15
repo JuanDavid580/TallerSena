@@ -13,3 +13,4 @@ DeteccionMonedasApp - https://github.com/bdg-ittic/DeteccionMonedasApp
 
 - Link a la presentacion de la sesion
   https://gamma.app/docs/Transferencia-de-conocimiento-SENA-hxks0vz6d62l7ms?mode=doc
+- La presentacion del taller se encuentra en los archivos.
