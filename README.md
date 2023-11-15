@@ -6,4 +6,9 @@ Entrenamiento de un modelo de ML para la detección de monedas
 https://drive.google.com/drive/folders/1xQ16CVZLFxixjEVpgX9XOzP7NlqzrahF?usp=sharing
 
 - Repositirio de GitHub para el despliegue:
-DeteccionMonedasApp - https://github.com/bdg-ittic/DeteccionMonedasApp  
+DeteccionMonedasApp - https://github.com/bdg-ittic/DeteccionMonedasApp
+
+- URL para acceso a Roboflow
+  https://roboflow.com/
+
+  
