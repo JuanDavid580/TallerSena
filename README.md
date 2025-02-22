@@ -1,4 +1,4 @@
-# TallerDeteccionMonedas
+4# TallerDeteccionMonedas
 Entrenamiento de un modelo de ML para la detección de monedas
 
 - URL para el acceso a la carpeta con las imagenes de monedas:
